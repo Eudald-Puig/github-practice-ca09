@@ -129,4 +129,4 @@
 |97|Alexandre Minot|9|AlexMinot| <https://github.com/AlexMinot/my_website> | <https://alexandre-minot-portfolio.netlify.app/> |2020-10-13
 |98|Pieter Vercruysse|7|PieterVercruysse|<https://github.com/PieterVercruysse/mywebsite.git>|<https://pietervercruysse-portfolio.netlify.app>|2020-10-13
 |99|Todor Kuveljic|9|PieterVercruysse|<https://github.com/todor-kuveljic/my_website99>|<https://https://todorstest.netlify.app>|2020-10-13
-|100|Eudald Puig|19|Eudald-Puig|<https://github.com/Eudald-Puig/my_website>|<eudald-puig-mfa.netlify.app>|2020-10-14
+|100|Eudald Puig|19|Eudald-Puig|<https://github.com/Eudald-Puig/my_website>|<https://eudald-puig-mfa.netlify.app>|2020-10-14
